@@ -42,7 +42,12 @@ color: #000000;
 
 }
 
+a {
+	color: #000000;
+	text-decoration: none;
+}
 
+/*
 div { 
 	width: 1300px;
 	height: 40px;
@@ -55,15 +60,10 @@ div {
  #nav {
  	background-color: #ffffff;
  	text-align: center;
- 	text-decoration: none;
- 	
-
+ 	display: 	
+*/
  
 
 }
 
-a { 
-	text-decoration: none;
-	color: #000000
 
-}
