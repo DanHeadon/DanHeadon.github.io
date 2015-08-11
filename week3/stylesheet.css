@@ -48,13 +48,14 @@ div {
 	height: 40px;
 	border: 1px solid white;
 	display: inline-table;
-	
+	text-decoration: none;
 
 
 }
  #nav {
  	background-color: #ffffff;
- 	
+ 	text-align: center;
+ 	text-decoration: none;
  	
 
  
@@ -64,4 +65,5 @@ div {
 a { 
 	text-decoration: none;
 	color: #000000
+
 }
