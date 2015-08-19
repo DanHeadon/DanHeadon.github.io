@@ -1,8 +1,52 @@
 body {
-	background-color: #ff0000;
+	background-color: #ffffff;
+	text-align: center;
+	background-image: url(http://cdn.silodrome.com/wp-content/uploads/2013/05/Honda-CB550-bike.jpg);
+	
+	background-size: center; 
 }
 
 
-h1, h3, p {
-	color: #0000ff;
+h1, h2, p , a {
+	color: #ffffff;
+}
+
+#header {
+	width: 300px;
+	height: 150px;
+	border: 2px solid black;
+	display: inline-block;
+	margin: 20px;}
+
+h1, h2, p,{ 
+font-family: Arial, sans-serif;
+font-weight: normal;
+text-decoration: none;
+
+
+}
+
+.second {
+	font-weight: bold
+
+}
+
+
+.important {
+	font-size: 200px;
+}
+
+h2 { 
+text-transform: uppercase;
+
+
+}
+
+a { 
+
+font-size: 20px;
+font-weight: bold;
+font-style: italic;
+
+
 }
