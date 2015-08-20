@@ -94,16 +94,17 @@ nav a{
 #C{
     background-color: #ddd000;
     display: block;
-
+    float: right;
     height: 400px;
     width: 100%;
+
 }
 
 
 #D{
     background-color: #fff000;
     display: block;
-
+    float: right;
     height: 400px;
     width: 100%;
 }
