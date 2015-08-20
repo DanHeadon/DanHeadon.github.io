@@ -27,9 +27,9 @@ p{
     line-height: 
 }
 
-a{
+nav a{
     text-decoration: none;
-    color:#ddd;
+    color: #ffffff;
 }
 
 
@@ -56,11 +56,15 @@ a{
     width: 200px;
     padding: 20px;
 }
+
+
     
  /* mouse over link */
   #hov:hover{
     color: red;
 }
+
+
   
 #A{
     background-color: #ddd;
@@ -105,15 +109,6 @@ a{
     padding: 10px;
 
 }
-
-
-#nav{
-    background-color: #ffffff;
-    width: 100%;
-    height: auto;
-    margin: auto;
-}
-
 
 
 
