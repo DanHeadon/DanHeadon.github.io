@@ -1,0 +1,57 @@
+
+*{
+	margin: 0px;
+	padding: 0px;
+	
+}
+
+
+body{
+	font-family: sans-serif;
+}
+ p{
+ 	border: solid;
+ 	margin:  10px 0;
+ }
+
+h1{
+	border: solid;
+	text-align: center;
+}
+
+h2{
+	border: solid;
+
+}
+a{ 
+	border: solid;
+	
+	text-decoration: none;
+}
+
+a:hover{
+	color: #ffffff;
+}
+
+ul{
+	border: solid;
+	margin: 10px 0;
+}
+li{
+	margin: 20px 0;
+}
+
+.wrap{
+    height: 200px;
+	border: solid 2px;
+	margin:  30px;
+	padding: 30px;
+	border-radius: 20px;
+}
+
+#letstalk{
+	border: solid;
+	margin: 10px 0;
+	text-align: center;
+}
+
