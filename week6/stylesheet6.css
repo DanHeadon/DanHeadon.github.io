@@ -1,3 +1,5 @@
+@import url(https://fonts.googleapis.com/css?family=Abel);
+
 
 *{
 	margin: 0px;
@@ -8,6 +10,7 @@
 
 body{
 	font-family: sans-serif;
+
 }
  p{
     text-align: center;
@@ -18,9 +21,12 @@ body{
 h1{
 	/*border: solid;*/
 	text-align: center;
+	font-family: 'Abel', sans-serif;
+	text-transform: uppercase;
 }
 
 h2{
+	font-family: 'Abel', sans-serif;
 	
 }
 
@@ -51,6 +57,7 @@ li{
 nav{
 	/*border: solid;*/
 	text-align: center;
+	padding: 20px;
 }
 
 
@@ -70,6 +77,7 @@ span{
 img{
 	background-size: cover;
 	margin: auto;
+	text-align: center;
 }
 
 .wrap{
@@ -97,9 +105,9 @@ img{
 
 
 #waves{
-	border: solid;
+	border-radius: 100px;
 	margin: auto;
-	width: 600px;
+	width: 960px;
 	height: 120px;
 	
 	
@@ -132,5 +140,7 @@ img{
 	
 
 
-
+#about{
+	height: 50px;
+}
 
