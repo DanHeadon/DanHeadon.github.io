@@ -71,7 +71,7 @@ figure img {
 }
 
 hr {
-    margin: 0em;
+    /*margin: 0em;*/
 }
 
 /* mouse over link */
@@ -152,6 +152,7 @@ hr {
 }
 
 
+
 #header1{
 	background-color: #ffffff;
     width: 50%;
@@ -169,7 +170,7 @@ hr {
   display: table; 
 
   background-image: url(../week8/DeathtoStock_NotStock4.jpg);
-  background-size: cover;
+  background-size: 100%;
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
